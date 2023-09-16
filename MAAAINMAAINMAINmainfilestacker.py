@@ -1,4 +1,4 @@
-# Names: Jacky 
+# Names: Jacky and Orion
 # Stacker is a game where the user tries to align (aka stack) blocks vertically. The blocks will be moving left and
 # right while the user is stacking. 
 # When the user inputs the specified key, the moving block will stop and hopefully be aligned with previous stacked blocks. 
